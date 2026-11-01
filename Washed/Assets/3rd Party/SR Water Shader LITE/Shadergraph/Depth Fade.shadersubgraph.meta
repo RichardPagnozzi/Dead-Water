@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7801634c65eaf7d49a4dc5bc7914f1bc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 418796
+  packageName: Water Shader LITE by SR
+  packageVersion: 1.0
+  assetPath: Assets/SR Water Shader LITE/Shadergraph/Depth Fade.shadersubgraph
+  uploadId: 1024230

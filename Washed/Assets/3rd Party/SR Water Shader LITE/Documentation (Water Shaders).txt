@@ -1,0 +1,74 @@
+
+- - - - - - - - - - - - - - - - - - - - - SR Water Shader LITE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Lite version of our asset "SR Water shader". This pack contains many Animated water Shaders/Materials for games. 
+All materials are highly customizable too. Adjust the properties and create your own variation easily.
+
+What's New in the Full Version?
+Interactive Water: Generates foam around the edges of objects when they are placed in water.
+More Water Variations: Explore additional water styles and variations.
+
+Note: This asset uses Depth texture and Opaque texture (Quick Beginner friendly Guide included).
+
+Technical Details:-
+		- Material(s) : Custom Lit material (Made with Shadergraph v12)
+		- Materials variation's : 12+
+		- Customizable : YES (Water Color, Depth, flow direction.etc are customizable)
+		- Prefab Variations : 12 (3D Plane with water shader)
+		- Texture Size(s) : 2048 x 2048, 1024 x 1024
+		- Shadergraph version - 12.1.11
+		- URP support : Yes
+		- Shader Guide included : YES
+		- Vertex displacement : No
+		- Water splash effect : No
+		- Interactive : No (only on full version)
+
+Features:-
+	- Many different Water shaders
+	- Color Customizable
+	- Adjust Depth, Refraction, Flow direction.
+	- Best fit for Mobile and PC games
+	- Prefabs included (Drag and Drop to the scene)
+	- All nodes, materials and textures are appropriately named.
+
+Folder details:-
+
+	Materials : Where the materials for the model located.
+	
+	Meshes : Contain FBX format of the 3d model.
+	
+	Textures : Contains Textures, that are in (.PNG) file format
+	
+	(Other folders - Prefabs, Scenes)
+
+How to use:-	
+	Simply drag and drop the prefab to your scene and use it.
+	(Prefab(s) located under 
+	Asset > SR Water Shader lite > Prefabs).
+
+--------------- Water Shader Properties ---------------
+
+Pattern Color : Changes the color of the secondary water pattern texture.
+
+Water Depth : Controls the blend between shallow and deep water.
+
+Refraction Strength : Controls the amount of water distortion.
+
+Smoothness : Controls how glossy the water surface appears.
+
+
+❓ Frequently Asked Questions:
+
+Q: Can I create new Shader variations?
+A: Yes, you can create unlimited variations using only the Unity Editor by tweaking material properties—no coding required.
+
+Q: Will this asset work on URP, Built-in, and other render pipelines?
+A: Yes. This asset is compatible with any render pipeline. It was originally submitted using URP, but it also includes a setup guide for other pipelines. You can get it working in different pipelines within seconds.
+
+....................................................................................................................
+
+About Me : "SR Studios Kerala", Indie Game developer & 3D-2D Artist from Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thank you for downloading this package................................
