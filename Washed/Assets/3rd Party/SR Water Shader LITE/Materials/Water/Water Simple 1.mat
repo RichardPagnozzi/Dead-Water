@@ -66,22 +66,22 @@ Material:
     - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction_Scale: 6
+    - _Refraction_Scale: 3
     - _Refraction_Speed: 0.03
-    - _Refraction_Strength: 0.62
+    - _Refraction_Strength: 2
     - _Smoothness: 1
     - _Water_Depth: 7.19
     m_Colors:
     - _Deep_Water: {r: 0.014247027, g: 0.30401763, b: 0.32830188, a: 0.43137255}
     - _Foarm_Color: {r: 0, g: 0.9714761, b: 1, a: 0.5294118}
     - _Foarm_Speed_XY: {r: 1, g: 1, b: 0, a: 0}
-    - _Mask_TIle: {r: 1, g: 1, b: 0, a: 0}
+    - _Mask_TIle: {r: 20, g: 20, b: 0, a: 0}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Pattern_Color: {r: 0, g: 0, b: 0, a: 0.9647059}
-    - _Refraction_Speed_XY: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _Refraction_Speed_XY: {r: 0.05, g: 0.05, b: 0, a: 0}
     - _Shallow_Water: {r: 0, g: 0.25283018, b: 0.23238069, a: 0.16862746}
     - _Speed: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - _Tiling: {r: 8, g: 8, b: 0, a: 0}
+    - _Tiling: {r: 16, g: 16, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &6677188675668944387
