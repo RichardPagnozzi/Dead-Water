@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 42
+  controlID: 4729
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 43
+  controlID: 4852
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 44
+  controlID: 4755
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -252,8 +252,11 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1382
-      - m_Data: 67926
+      - m_Data: -42354
+      - m_Data: -14654
+      - m_Data: -14634
+      - m_Data: -1456
+      - m_Data: 67504
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -351,8 +354,8 @@ MonoBehaviour:
     m_ControlHash: 1412526313
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectEntityId:
-    m_Data: 67974
-  m_LastVerticalScrollValue: 316
+    m_Data: 67470
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -368,7 +371,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: AnimationWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -377,15 +380,15 @@ MonoBehaviour:
     y: 701
     width: 1097
     height: 592
-  m_MinSize: {x: 51, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 12}
+  m_MinSize: {x: 231, y: 276}
+  m_MaxSize: {x: 10001, y: 10026}
+  m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 10}
   - {fileID: 11}
   - {fileID: 12}
-  m_Selected: 2
-  m_LastSelected: 0
+  m_Selected: 1
+  m_LastSelected: 2
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -473,7 +476,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Art
+    - Assets/Art/Blockbench/Models
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -483,7 +486,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Art
+  - Assets/Art/Blockbench/Models
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\Projects - Unity\Dead Water\Washed
   m_LockTracker:
@@ -492,19 +495,21 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 69144
+    - m_Data: 68378
     m_LastClickedID:
-      m_Data: 69144
+      m_Data: 68378
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 63922
-    - m_Data: 68488
-    - m_Data: 68490
-    - m_Data: 68492
-    - m_Data: 68494
-    - m_Data: 68496
-    - m_Data: 68902
-    - m_Data: 69156
+    - m_Data: 63574
+    - m_Data: 68042
+    - m_Data: 68044
+    - m_Data: 68046
+    - m_Data: 68048
+    - m_Data: 68050
+    - m_Data: 68052
+    - m_Data: 68054
+    - m_Data: 68056
+    - m_Data: 68362
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -538,12 +543,15 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 63922
-    - m_Data: 68488
-    - m_Data: 68490
-    - m_Data: 68492
-    - m_Data: 68494
-    - m_Data: 68496
+    - m_Data: 63574
+    - m_Data: 68042
+    - m_Data: 68044
+    - m_Data: 68046
+    - m_Data: 68048
+    - m_Data: 68050
+    - m_Data: 68052
+    - m_Data: 68054
+    - m_Data: 68056
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -572,10 +580,10 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: -7646
+    - m_Data: 67470
     m_LastClickedEntityId:
-      m_Data: -7646
-    m_HadKeyboardFocusLastEvent: 1
+      m_Data: 67470
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1243,9 +1251,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 19.7699, y: -1.5174155, z: 25.53446}
+    m_Target: {x: 29.79611, y: -0.052259814, z: 120.43623}
     speed: 2
-    m_Value: {x: 19.7699, y: -1.5174155, z: 25.53446}
+    m_Value: {x: 29.79611, y: -0.052259814, z: 120.43623}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1292,13 +1300,13 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: 0.11990632, y: -0.55623025, z: 0.081510894, w: 0.8182938}
+    m_Target: {x: -0.15342441, y: 0.15583341, z: -0.024512658, w: -0.97550946}
     speed: 2
-    m_Value: {x: 0.11990522, y: -0.5562251, z: 0.08151015, w: 0.8182863}
+    m_Value: {x: -0.15342113, y: 0.15583009, z: -0.024512134, w: -0.97548866}
   m_Size:
-    m_Target: 15.492815
+    m_Target: 15.689146
     speed: 2
-    m_Value: 15.492815
+    m_Value: 15.689146
   m_Ortho:
     m_Target: 0
     speed: 2
